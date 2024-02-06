@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently doing `App Development` with `flutter` and `dart`
 - 👲 Software Developer 
-- I’m currently learning `Flutter` `DevOps` `ML`
+- I’m currently learning `Flutter` `ML`
 - 👯I’m looking to collaborate on ML-App Development projects.
 <!-- - 🤔 2022 Goal: Learn Developing a OS from scratch-->
 <!-- - 💬 Ask me about Technology in `Docker`, `Dart` , `Server` , `REST-APIs` and `DevOps` -->
