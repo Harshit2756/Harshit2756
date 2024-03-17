@@ -75,11 +75,11 @@
 <!-- <details>
  <summary><b>My Tech Articles</b></summary>
  
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hemnanisahil777/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hemnanisahil777/1" alt="Recent Article 1"></a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/username/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hemnanisahil777/1" alt="Recent Article 1"></a>
  
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hemnanisahil777/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hemnanisahil777/2" alt="Recent Article 2"></a>
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/username/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hemnanisahil777/2" alt="Recent Article 2"></a>
  
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hemnanisahil777/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hemnanisahil777/0" alt="Recent Article 3"></a>
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/username/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/username/0" alt="Recent Article 3"></a>
  
 </details> -->
 
