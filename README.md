@@ -3,17 +3,16 @@
 ## 👲 I'm <b>Harshit Khandelwal</b> - Flutter Developer,ML Enthusiast 👋
 
 - 🔭 I’m currently doing `App Development` with `flutter` and `dart`
-- 👲 Software Developer 
+- 👲 Software Developer
 - I’m currently learning `Flutter` `ML`
 - 👯I’m looking to collaborate on ML-App Development projects.
-<!-- - 🤔 2022 Goal: Learn Developing a OS from scratch-->
-<!-- - 💬 Ask me about Technology in `Docker`, `Dart` , `Server` , `REST-APIs` and `DevOps` -->
+  <!-- - 🤔 2022 Goal: Learn Developing a OS from scratch-->
+  <!-- - 💬 Ask me about Technology in `Docker`, `Dart` , `Server` , `REST-APIs` and `DevOps` -->
 
- 
  <details open>
-   <summary><b>Tech-Stack</b></summary>
-  
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+   <summary><b>💻 Tech Stack:</b></summary>
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -39,21 +38,36 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-   
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+
  </details>
  
 <details>
- <summary><b>📊 GitHub Stats</b></summary> 
+ <summary><b>📊 GitHub Stats</b></summary>
 
- ![hi](https://github-readme-stats.vercel.app/api?username=Harshit2756&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  <img width="12" />
- ![](https://github-readme-streak-stats.herokuapp.com/?user=Harshit2756&theme=dark&hide_border=false)
- <br/><br/>
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit2756&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![hi](https://github-readme-stats.vercel.app/api?username=Harshit2756&theme=dark&hide_border=false&include_all_commits=true&count_private=true) <img width="12" />
+![](https://github-readme-streak-stats.herokuapp.com/?user=Harshit2756&theme=dark&hide_border=false)
+<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit2756&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <!-- ![harshit2756's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit2756&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)-->
 
 </details>
@@ -68,7 +82,7 @@
 <details >
  <summary><b>🔝 Top Contributed Repo </b></summary>
 
- ![](https://github-contributor-stats.vercel.app/api?username=Harshit2756&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Harshit2756&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </details>
  
@@ -96,20 +110,21 @@
     }
   }
 ```
->You must finish what you start and finish it well!
+
+> You must finish what you start and finish it well!
+
 </details>
 
 <details open>
- <summary><b>Connect with me</b></summary>
+ <summary><b>🌐 Connect with me</b></summary>
 
- [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandelwalharshit431+github@gmail.com)
- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-khandelwal-3a76631b9/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandelwalharshit431+github@gmail.com)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-khandelwal-3a76631b9/)
+
 <!-- [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)-->
 
 </details>
-<!--
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<!-- ### 😂 Random Dev Meme -->
+<!-- <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
 
----
-[![](https://visitcount.itsvg.in/api?id=Harshit2756&icon=0&color=0)](https://visitcount.itsvg.in) -->
+<!-- [![](https://visitcount.itsvg.in/api?id=Harshit2756&icon=0&color=0)](https://visitcount.itsvg.in) -->
