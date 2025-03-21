@@ -2,10 +2,12 @@
 
 ## 👲 I'm <b>Harshit Khandelwal</b> - Flutter Developer,ML Enthusiast 👋
 
-- 🔭 I’m currently doing `App Development` with `flutter` and `dart`
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harshit2756&label=Profile%20Views&color=66ff00&style=flat" alt="Harshit2756" /> </p>
+
+- 🔭 I'm currently doing `App Development` with `flutter` and `dart`
 - 👲 Software Developer
-- I’m currently learning `Flutter` `ML`
-- 👯I’m looking to collaborate on ML-App Development projects.
+- I'm currently learning `Flutter` `ML`
+- 👯I'm looking to collaborate on ML-App Development projects.
   <!-- - 🤔 2022 Goal: Learn Developing a OS from scratch-->
   <!-- - 💬 Ask me about Technology in `Docker`, `Dart` , `Server` , `REST-APIs` and `DevOps` -->
 
@@ -86,16 +88,18 @@
 
 </details>
  
-<!-- <details>
- <summary><b>My Tech Articles</b></summary>
+<details>
+ <summary><b>📝 My Tech Articles</b></summary>
  
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/username/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hemnanisahil777/1" alt="Recent Article 1"></a>
+ <div align="center">
+  <h3>Latest Publications</h3>
+  <a target="_blank" href="https://medium.com/@harshit2756/skip-the-apk-how-to-deploy-flutter-mobile-apps-as-instant-web-preview-724ce3b1f502">
+    <img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/0*tEcQfrEADQ9B8WB9" alt="Skip the APK: How to Deploy Flutter Mobile Apps as Instant Web Preview" width="600">
+    <p><strong>Skip the APK: How to Deploy Flutter Mobile Apps as Instant Web Preview</strong></p>
+  </a>
+ </div>
  
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/username/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hemnanisahil777/2" alt="Recent Article 2"></a>
- 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/username/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/username/0" alt="Recent Article 3"></a>
- 
-</details> -->
+</details>
 
 <details>
  <summary><b>My Toughts</b></summary>
@@ -120,6 +124,7 @@
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandelwalharshit431+github@gmail.com)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-khandelwal-3a76631b9/)
+[![image](https://img.shields.io/badge/Personal%20Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://harshit-khandelwal.web.app/)
 
 <!-- [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)-->
 
